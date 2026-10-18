@@ -51,8 +51,22 @@ Run the machine-learning experiment:
 python ml_detector.py
 ```
 ## Dashboard Preview
+## Project Screenshots
 
-![RF Signal Intelligence Dashboard](dashboard.png)
+### Screenshot 1
+![Screenshot 1](RFimag1.png)
+
+### Screenshot 2
+![Screenshot 2](RF imag2.png)
+
+### Screenshot 3
+![Screenshot 3](RF imag3.png)
+
+### Screenshot 4
+![Screenshot 4](RF imag4.png)
+
+### Screenshot 5
+![Screenshot 5](RF imag5.png)
 
 ## Important Note
 The current project uses simulated RF signals and artificially created anomalies. It is an educational prototype, not a validated real-world RF monitoring or security system.
