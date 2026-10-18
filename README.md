@@ -50,6 +50,9 @@ Run the machine-learning experiment:
 ```bash
 python ml_detector.py
 ```
+## Dashboard Preview
+
+![RF Signal Intelligence Dashboard](dashboard.png)
 
 ## Important Note
 The current project uses simulated RF signals and artificially created anomalies. It is an educational prototype, not a validated real-world RF monitoring or security system.
